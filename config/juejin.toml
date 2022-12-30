@@ -1,0 +1,18 @@
+user_agent = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:106.0) Gecko/20100101 Firefox/106.0"
+
+base_url = "https://api.juejin.cn"
+
+push_base_url = "http://www.pushplus.plus/send"
+
+check_sign = "/growth_api/v1/get_today_status"
+
+check_draw = "/growth_api/v1/lottery_config/get"
+
+sign = "/growth_api/v1/check_in"
+
+draw = "/growth_api/v1/lottery/draw"
+
+cookie = ""
+
+
+token =  ""
